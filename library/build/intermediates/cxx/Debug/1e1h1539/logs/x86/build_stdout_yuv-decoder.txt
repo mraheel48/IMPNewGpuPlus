@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\victus\AndroidStudioProjects\IMPNewGpuPlus\library\.cxx\Debug\1e1h1539\x86'
+ninja: no work to do.

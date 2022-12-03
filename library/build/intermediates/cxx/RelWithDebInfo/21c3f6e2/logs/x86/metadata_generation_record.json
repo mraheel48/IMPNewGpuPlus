@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1088577079
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\.cxx\\RelWithDebInfo\\21c3f6e2\\x86\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1058305599
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\.cxx\\RelWithDebInfo\\21c3f6e2\\x86\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2008179411
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\.cxx\\RelWithDebInfo\\21c3f6e2\\x86\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1159504661
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -745260589
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\.cxx\\RelWithDebInfo\\21c3f6e2\\x86\u0027",
+    "file_": "C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2051752355
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\victus\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\victus\\\\AndroidStudioProjects\\\\IMPNewGpuPlus\\\\library\\\\src\\\\main\\\\cpp\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\victus\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\victus\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\victus\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\victus\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\victus\\\\AndroidStudioProjects\\\\IMPNewGpuPlus\\\\library\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\21c3f6e2\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\victus\\\\AndroidStudioProjects\\\\IMPNewGpuPlus\\\\library\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\21c3f6e2\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\" ^\n  \"-BC:\\\\Users\\\\victus\\\\AndroidStudioProjects\\\\IMPNewGpuPlus\\\\library\\\\.cxx\\\\RelWithDebInfo\\\\21c3f6e2\\\\x86\" ^\n  -GNinja\n",
+    "file_": "C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -206462046
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\victus\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\victus\\\\AndroidStudioProjects\\\\IMPNewGpuPlus\\\\library\\\\src\\\\main\\\\cpp\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\victus\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\victus\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\victus\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\victus\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\victus\\\\AndroidStudioProjects\\\\IMPNewGpuPlus\\\\library\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\21c3f6e2\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\victus\\\\AndroidStudioProjects\\\\IMPNewGpuPlus\\\\library\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\21c3f6e2\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\" ^\n  \"-BC:\\\\Users\\\\victus\\\\AndroidStudioProjects\\\\IMPNewGpuPlus\\\\library\\\\.cxx\\\\RelWithDebInfo\\\\21c3f6e2\\\\x86\" ^\n  -GNinja\n",
+    "file_": "C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1949455549
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\.cxx\\RelWithDebInfo\\21c3f6e2\\x86\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -331179181
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1057606840
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\.cxx\\RelWithDebInfo\\21c3f6e2\\x86\\metadata_generation_command.txt",
+    "file_": "C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1827485067
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 880466244
+  }
+]

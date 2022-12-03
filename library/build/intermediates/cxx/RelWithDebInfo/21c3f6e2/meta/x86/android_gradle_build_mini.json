@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\victus\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\.cxx\\RelWithDebInfo\\21c3f6e2\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\victus\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\.cxx\\RelWithDebInfo\\21c3f6e2\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yuv-decoder::@6890427a1f51a3e7e1df": {
+      "artifactName": "yuv-decoder",
+      "abi": "x86",
+      "output": "C:\\Users\\victus\\AndroidStudioProjects\\IMPNewGpuPlus\\library\\build\\intermediates\\cxx\\RelWithDebInfo\\21c3f6e2\\obj\\x86\\libyuv-decoder.so",
+      "runtimeFiles": []
+    }
+  }
+}
